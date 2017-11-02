@@ -1,10 +1,13 @@
-#openAdmin
+# openAdmin
+
 The source of openAdmin.
 
-openAdmin on ROBLOX: ***oh sorry i didnt upload it yet.. :(***
+openAdmin on ROBLOX: **Not currently uploaded**
 
-##Installation
-Get the model from ROBLOX (link is above), and place it in ServerScriptService.
+## Installation
 
-##Discord
+Get the model from ROBLOX (or from the latest release), and place it in ServerScriptService.
+
+## Discord
+
 [Click here to join!](https://discord.gg/UvjUYGD)
